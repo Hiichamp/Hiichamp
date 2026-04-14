@@ -1,144 +1,76 @@
-# Hi 👋, I'm himanshu
-### fullstack
+<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Automation | MERN Specialist</h3>
 
-## 🧑‍💻 About Me
-🚀 **Project Pitch: AI-Powered GitHub README Generator**
-
----
-
-### 💡 Overview
-
-Build a minimal, fast, and modern web app that allows developers to generate a professional GitHub README/profile by simply filling out a flexible form.
-
-The focus should be on **clean UI, smooth experience, and zero friction** — no unnecessary steps like login/signup.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Apps;AI+Automation+Enthusiast;Startup+Focused+Builder" />
+</p>
 
 ---
 
-### 🎯 Core Features
-
-#### 📝 Flexible Input Form
-
-* All fields are **optional**
-* Users can fill as much or as little as they want
-* Fields include:
-
-  * Name
-  * Title
-  * About Me
-  * Skills / Tech Stack
-  * Tools
-  * Portfolio
-  * LinkedIn
-  * GitHub username
+### 👨‍💻 About Me
+- 💻 Full Stack Developer specializing in **MERN Stack & modern web technologies**
+- 🚀 Part of a **Canada-based eCommerce startup**
+- 🤖 Passionate about **AI Automation & smart systems**
+- 🌐 Building high-performance, scalable, and visually engaging products
+- ⚡ Focused on **real-world problem solving & startup ecosystem**
+- 🤝 Open to collaborations, freelance, and startup opportunities
 
 ---
 
-#### ⚡ Live README Generator
+### 🛠️ Tech Stack
 
-* Real-time preview as user types
-* Clean, structured README output
-* Proper formatting with sections like:
+#### 🚀 Core
+`MERN Stack` • `JavaScript` • `Java` • `Python`
 
-  * About Me
-  * Tech Stack
-  * Projects / Links
-* Ready-to-copy Markdown
+#### 🎨 Frontend
+`React.js` • `Next.js` • `HTML` • `CSS` • `Tailwind CSS`
 
----
+#### 📱 Mobile
+`React Native` • `Expo`
 
-#### 🔒 Unlock to Copy (Telegram Integration)
+#### ⚙️ Backend & Tools
+`Node.js` • `MongoDB` • `Postman` • `Git` • `GitHub`
 
-* Show a **copy code icon/button**
-* On click → lock triggers
-* User must **join Telegram group** first
-* After joining → unlock copy functionality
-* Smooth flow, no раздражение or forced feeling
+#### 🎬 Animation & UI
+`GSAP` • `Framer Motion` • `Locomotive Scroll`
 
----
-
-#### 🎨 UI / UX Design
-
-* Minimal & modern design
-* Smooth animations (subtle, not heavy)
-* Clean typography and spacing
-* Responsive (mobile + desktop)
+#### 🤖 Other
+`AI Automation` • `API Integrations`
 
 ---
 
-#### 🌗 Theme Support
-
-* Toggle between:
-
-  * Dark Mode 🌙
-  * Light Mode ☀️
-* README preview should reflect selected theme
+### 🌐 Portfolio
+🔗 https://himtech.space
 
 ---
 
-#### ⏳ Loader Experience
-
-* Smooth loader while generating README
-* Optional typing/animation effect for premium feel
-
----
-
-#### 💖 Support / Donation
-
-* Add a simple **“Support Developer”** section
-* Users can donate if they like the tool
-* Keep it subtle, not aggressive
+### 🔥 What I Build
+- 🌐 Modern, responsive web applications  
+- ⚡ AI-powered automation systems  
+- 📱 Cross-platform mobile apps  
+- 🧠 SaaS & startup-focused products  
 
 ---
 
-#### ❌ No Authentication
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://himtech.space">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-* No login/signup
-* Direct access → instant usage
+<p align="center">
+  <a href="https://www.linkedin.com/in/himansh133">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
-
-## ⚙️ Suggested Tech Stack
-
-* Frontend: React + Tailwind CSS
-* Animations: Framer Motion / GSAP
-* Markdown Preview: react-markdown
-* Backend (optional): Node.js / Firebase
-
----
-
-## 🔥 Goal
-
-Create a tool that is:
-
-* Fast ⚡
-* Simple 🧠
-* Useful 💼
-* Clean & modern 🎨
-
-A developer should be able to:
-👉 Open site → Fill form → Generate → Join Telegram → Copy → Done
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ **Vision:**
-*"Turning developer profiles into something clean, powerful, and actually useful."*
-
-
-## 🚀 Skills & Tech Stack
-`fgfh`
-
-## 🛠️ Tools
-`gfhygjh`
-
-## 🔗 Connect with Me
-- 🌐 [Portfolio](jhjhgf)
-- 💼 [LinkedIn](hgjhg)
-- 🐙 [GitHub](https://github.com/hjhjh)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjhjh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjhjh&layout=compact&theme=radical)
-
----
-*Generated with ❤️ by [README Generator]()*
+⭐ **"Building things that people actually use."**
