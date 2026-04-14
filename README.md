@@ -57,15 +57,15 @@
   <a href="https://himtech.space">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+</p>
 
-  <img src="https://via.placeholder.com/40x1" />
-
+<p align="center">
   <a href="https://www.linkedin.com/in/himansh133">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
 
-  <img src="https://via.placeholder.com/40x1" />
-
+<p align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
