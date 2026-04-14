@@ -54,13 +54,19 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://himtech.space" style="margin: 0 40px;">
+  <a href="https://himtech.space">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/himansh133" style="margin: 0 40px;">
+
+  <img src="https://via.placeholder.com/40x1" />
+
+  <a href="https://www.linkedin.com/in/himansh133">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" style="margin: 0 40px;">
+
+  <img src="https://via.placeholder.com/40x1" />
+
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
