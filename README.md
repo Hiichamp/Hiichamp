@@ -1,51 +1,78 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">🚀 Web Developer | AI Automation Enthusiast | Builder</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Automation | MERN Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+build+real+world+projects;React+Developer;AI+Automation+Lover;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Apps;AI+Automation+Enthusiast;Startup+Focused+Builder" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎯 I’m a **20-year-old developer** focused on building real-world projects  
-- 💻 Skilled in **React.js, Tailwind CSS, and modern web development**  
-- 🤖 Exploring **AI automation & smart tools**  
-- 🚀 Working on **startup ideas & freelance projects (Himtech)**  
-- 🌱 Currently learning **advanced systems & scalable apps**  
-- 🤝 Open to **collaborations & startup opportunities**  
+- 💻 Full Stack Developer specializing in **MERN Stack & modern web technologies**
+- 🚀 Part of a **Canada-based eCommerce startup**
+- 🤖 Passionate about **AI Automation & smart systems**
+- 🌐 Building high-performance, scalable, and visually engaging products
+- ⚡ Focused on **real-world problem solving & startup ecosystem**
+- 🤝 Open to collaborations, freelance, and startup opportunities
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,git,github,vscode" />
-</p>
+
+#### 🚀 Core
+`MERN Stack` • `JavaScript` • `Java` • `Python`
+
+#### 🎨 Frontend
+`React.js` • `Next.js` • `HTML` • `CSS` • `Tailwind CSS`
+
+#### 📱 Mobile
+`React Native` • `Expo`
+
+#### ⚙️ Backend & Tools
+`Node.js` • `MongoDB` • `Postman` • `Git` • `GitHub`
+
+#### 🎬 Animation & UI
+`GSAP` • `Framer Motion` • `Locomotive Scroll`
+
+#### 🤖 Other
+`AI Automation` • `API Integrations`
+
+---
+
+### 🌐 Portfolio
+🔗 https://himtech.space
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔥 What I'm Building
-- 🌐 Modern websites with smooth UI/UX  
-- ⚡ AI-powered tools & automation systems  
-- 🧠 SaaS ideas for founders  
+### 🔥 What I Build
+- 🌐 Modern, responsive web applications  
+- ⚡ AI-powered automation systems  
+- 📱 Cross-platform mobile apps  
+- 🧠 SaaS & startup-focused products  
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://himtech.space">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/himansh133">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐ *"Building things that people actually use."*
+⭐ **"I build products that are not just красив — but actually useful."**
